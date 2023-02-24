@@ -12,7 +12,7 @@
 
 ### A little bit about me:
 - 🔭 I’m currently working on Ortopedica San Carlos
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning <strong>web development</strong>
 - 👯 I’m looking to collaborate on deep learning
 - 🤔 I’m looking for help with frontend technologies
 - 💬 Ask me about Mask-RCNN
