@@ -37,8 +37,11 @@
 </a>
 </div>
 
-<h4>Other technologies I use:</h4>
-HTML5, JS, React, Redux, CSS, Bootstrap, CMD, Arduino, Colab, Jupyter, Linux, C++, MatLab
+#### Other technologies I use:
+HTML5, JS, React, Redux, CSS, Bootstrap, CMD, Colab, Jupyter, Linux, Access, MySQL, Office, G-Suit.
+
+#### Basic knowledge:
+Tailwind, Postman, Photoshop, Illustrator, Data analysis, Machine learning, Deep Learning, Power BI, Excel, Java, C, C++, C#, PHP, Arduino, Assemebler, VBA, MatLab, Octopus, Labview.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EE-Francisco&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
