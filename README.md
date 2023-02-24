@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**EE-Francisco/EE-Francisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋, I'm Francisco Franco 👨🏻‍💻
+I am Web Developer.
+- 🔭 I’m currently working on Ortopedica San Carlos
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on deep learning
+- 🤔 I’m looking for help with frontend technologies
+- 💬 Ask me about Mask-RCNN
+- 📫 How to reach me: electron.eng.francisco@gmail.com
+- 😄 Pronouns: "he" | "him"
+- ⚡ Fun fact: The first computer “bug” was an actual real-life bug
