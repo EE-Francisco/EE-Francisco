@@ -38,10 +38,10 @@
 </div>
 
 #### Other technologies I use:
-HTML5, JS, React, Redux, CSS, Bootstrap, CMD, Colab, Jupyter, Access, MySQL, Office, G-Suit.
+HTML5, JS, React, Redux, CSS, Bootstrap, CMD, Colab, Jupyter, Access, MySQL, Excel.
 
 #### Basic knowledge:
-Tailwind, Postman, Photoshop, Illustrator, Data analysis, Machine learning, Deep Learning, Power BI, Excel, Java, C, C++, C#, PHP, Arduino, Assemebler, VBA, MatLab, Octopus, Labview, Linux.
+Tailwind, Postman, Photoshop, Illustrator, Data analysis, Machine learning, Deep Learning, Power BI, Office, G-Suit, Java, C, C++, C#, PHP, Arduino, Assemebler, VBA, MatLab, Octopus, Labview, Linux.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EE-Francisco&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
